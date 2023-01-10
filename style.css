@@ -1,0 +1,23 @@
+body {
+	font-family: sans-serif;
+	background: rgb(0, 160, 255);
+	background: radial-gradient(
+		circle,
+		rgba(0, 160, 255, 1) 29%,
+		rgba(37, 153, 245, 1) 53%,
+		rgb(95, 150, 223) 100%
+	);
+	padding: 1rem 1rem;
+	margin: 0;
+}
+
+.zdjecie-wyroki {
+	width: calc(100vw - 3rem);
+	border-width: 0;
+	margin: 0;
+	padding: 0;
+}
+.slider {
+	margin: 0;
+	padding: 0;
+}
