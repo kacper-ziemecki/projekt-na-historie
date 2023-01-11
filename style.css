@@ -65,3 +65,16 @@ body {
 	margin: 0.4rem;
 	/* border: 2px solid black; */
 }
+
+@media (max-width: 900px) {
+	.hide {
+		display: none;
+	}
+	.main {
+		width: 100vw;
+	}
+	.no,
+	.yes {
+		margin: 0.3rem 4rem;
+	}
+}
